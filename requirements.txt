@@ -1,0 +1,10 @@
+# Tested with Python 3.13
+pandas==2.3.3
+numpy==2.4.0
+matplotlib==3.10.9
+networkx==3.6.1
+requests==2.32.5
+# Only needed to run/re-execute the notebook version of the analysis:
+jupyter
+# Only needed to rebuild the review-process CSVs from the raw spreadsheets:
+openpyxl

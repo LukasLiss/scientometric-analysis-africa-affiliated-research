@@ -1,0 +1,1160 @@
+Paper_ID,datasets_llm,patient_origin_countries_llm,data_modality_llm
+2,ABIDE,,Imaging; Text
+101,lung sound dataset; large-scale image datasets,,Audio; Imaging; Text
+102,,,Wearables; Other
+103,,,Wearables; Text; Tabular
+107,UCI Wisconsin Diagnostic Breast Cancer Data (WDBC),,Tabular
+112,third dataset,,Text; Tabular
+115,BreakHis,,Imaging; Text
+116,ImageNet; RadImageNet,,Imaging
+118,,,Tabular; Wearables
+119,,,Imaging; Text
+121,ChestX-ray14,,Imaging; Text; Tabular
+122,,,Text
+125,,,Other
+135,MAQA,,Text
+136,Parkinson’s Disease Gait Video (PDGV),,Video; Other
+137,IQ-OTH/NCCD,,Imaging
+138,,,Text; Tabular
+145,,sub-Saharan Africa,Imaging
+148,Coswara Dataset,India,Audio
+151,,,Text; Sensor
+156,,,Text; Tabular
+172,ADNI,,Imaging; Text
+175,,,Text; Tabular
+176,,,Imaging
+177,PASCAL heart sounds classifying challenge,,Audio
+178,fundus images,,Imaging
+179,,,Text; Tabular
+180,DTU/Herlev; SIPaKMeD,,Imaging; Text
+181,three diverse benchmark datasets,,Imaging; Text
+184,SIREN,African,EHR
+186,computed tomography dataset; intravascular optical coherence tomography images,,Imaging; Text
+187,Polyps images,,Imaging
+188,semi-artificial dataset,,Text; Tabular
+190,Mini-DDSM,,Imaging
+191,malaria datasets,Sierra Leone; Africa,Text; Tabular
+192,,,Imaging
+195,,,Text; Tabular
+200,,,Tabular
+206,Database for Mastology Research (DMR),,Imaging; Text
+207,WHO TB Data Base; Nigeria Dash Board,Nigeria,Tabular
+211,our dataset,,Text; Tabular
+218,NDB-UFES; H&E-stained OSCC,,Imaging
+229,COCDNet,,Imaging
+237,,South Africa,Text
+260,,,Imaging
+263,,,Audio; Tabular
+264,,Morocco,Tabular
+270,MIT-BIH,,Wearables; Text
+271,CanDark,Africa,Imaging; Text
+275,Warwick-QU,,Imaging; Text
+278,Deep Wrist,,Imaging; Text
+282,DMR-IR (Database for Mastology Research Infrared Images),,Imaging
+283,,,Audio
+284,,,Text
+286,,,Imaging
+290,,India,Imaging; Text
+291,,,Audio; Text
+294,,India,Imaging; Text
+297,,,Audio; Tabular
+310,,Uganda,EHR; Tabular
+311,Genome Detective; GLUE; Nextclade,,Genomics; Text
+314,SHARE,European,EHR; Tabular
+317,ChestX-ray14,Egypt,Imaging; Text
+342,,,Tabular; Text
+343,AGELESS; MELoR,,EHR; Tabular
+346,CT images,,Imaging
+347,ChestX-ray14,,Imaging; EHR; Text
+348,Arabic dataset,Arabic-speaking countries,Text; Audio
+351,Kenya Food Composition Tables,Kenya,Tabular
+352,ECG datasets,,Tabular
+355,,,Imaging
+359,,,Text; Tabular
+362,Multiple Indicator Cluster Survey,Zimbabwe,Tabular
+368,Brain MRI Images,,Imaging; Text
+371,,,Audio
+374,,,Text; Sensor
+376,,,Text
+379,,worldwide,Tabular
+382,Osteoarthritis Prediction,,Imaging; Text
+383,MIMIC-III,,Text; EHR
+384,,,EHR; Tabular
+388,ChestX-ray14,,Imaging; Text
+389,E-DAIC,,Text; Audio; Video
+392,,,Text; Tabular
+394,,,Text; Imaging
+395,COUGHVID,,Audio
+396,,,Imaging
+397,,,Tabular
+400,MIT–BIH Arrhythmia Database,,Audio; Tabular
+404,,,Imaging
+405,Al-Kasr Al-Aini Hospital dataset,Egypt,Tabular
+406,,,EHR; Imaging; Text
+407,MIT-BIH Arrhythmia Database,,Wearables; Tabular
+409,COVID-QU,,Imaging
+411,,,Text; Tabular
+413,Pima Indian diabetes dataset; German Frankfurt diabetes dataset,,Tabular
+414,dermoscopic images; clinical images,,Imaging; Text
+415,parallel dataset; English dataset; translated Arabic dataset,,Text
+419,,,Imaging
+420,two datasets,,Imaging
+422,,,Imaging
+424,,,Text; Other
+428,,,Text; Tabular
+429,Wisconsin Breast Cancer Diagnostic dataset,,Tabular
+430,,,Tabular
+433,,,Tabular
+434,,,Text; Tabular
+435,,,Imaging
+437,malaria dataset collected from Adetoyin Hospital,Nigeria,Text
+438,MIMIC-III,,Tabular
+439,Kaggle's brain MRI datasets,,Imaging
+445,WHO's World Mental Health Surveys,13 countries,Text; EHR
+449,neonatal birthweight; bacterial survival after treatment; myocardial infarction; breast cancer; diabetes,,Tabular; EHR
+452,ChEMBL,USA,Text; Tabular
+458,,Worldwide,Text
+459,MIMIC-III,,EHR; Tabular
+464,Ethiopian Public Health Institute,Ethiopia,Imaging; Text
+465,Breast Cancer Wisconsin,,Tabular
+469,,,Text; Tabular
+471,,Kenya,Tabular
+474,International Survey on Emotion Antecedents and Reactions (ISEAR),Ghana,Text
+487,GitHub,Central Africa; West Africa,Text; Tabular
+488,LIDC-IDRI,,Imaging
+490,Ethiopian Demographic Health Survey,Ethiopia,Tabular
+492,,Ethiopia,EHR; Tabular
+493,,Bangladesh,Text; Tabular
+494,,Uganda,Tabular; EHR
+497,Kaggle,,Text; Tabular; Imaging
+499,Hyper Kvasir,,Imaging
+503,NCI cervical image archive; BD Onclarity™,Zambia,Imaging; Text
+506,,Saudi Arabia,Text
+507,,,EHR; Tabular
+510,two distinct public datasets,,Imaging; Text; Tabular
+512,,Nigeria,Imaging; Text
+518,Tikur Ambesa (Black Lion) Hospital dataset,Ethiopia,Tabular
+519,PMA 2019; PMA Ethiopia 2019,Ethiopia,Tabular
+521,,Ghana,Text
+522,SchistoScope,Côte d'Ivoire,Imaging
+523,,,Imaging
+524,,Ghana,Text; Tabular
+525,,Ghana,EHR
+527,,Ethiopia; Uganda,Imaging; Text
+528,,Ghana,Tabular
+529,Asthma Detection Dataset Version 2; King Abdullah University Hospital dataset,,Audio
+530,OpenNeuro,,Audio
+539,HAM10000,,Imaging; Text
+567,,,Audio
+568,,,Imaging; Text
+570,HAM10000,,Imaging; Other
+573,IEMOCAP,,Audio
+578,LIDC-IDRI,,Imaging; Text
+580,,,Imaging
+582,,Uganda,Video; Imaging
+585,CXR images,,Imaging
+586,,Uganda; Germany,Imaging; Text
+588,,Nigeria,Text; Tabular
+589,,Zimbabwe,EHR; Text
+592,,South Africa,Text; Tabular
+596,ChestX-ray14,,Imaging; Text
+597,,developing nations,Imaging
+602,,,Imaging
+603,A; B; C; A2C; B3C,,Text; Imaging
+605,ChestX-ray14,,Imaging; Text
+608,International Skin Image Collaboration Archive (ISIC),,Imaging; Text
+615,,Ethiopia,Tabular
+616,Ethiopian Population and Health Survey,Ethiopia,Tabular
+617,Demographic Health Survey 2019,Ethiopia,Tabular
+620,,,Text
+629,,,Text
+630,,,Wearables; Text
+631,hematoxylin and eosin-stained histopathology slides,,Imaging
+634,,,Imaging; Text
+635,SIDER 4.1; ChEMBL,,Text; Tabular
+636,PCOS dataset,,Tabular
+637,,,Imaging
+639,,Taiwan,EHR; Tabular
+645,,Kenya,Text; Tabular
+646,,,Tabular; Text
+647,Mozilla Common Voice,France,Audio; Text
+648,MRI,,Imaging
+649,,,Imaging
+650,,,Imaging
+651,,,Text; Tabular
+653,,,Audio; Text
+654,,,Audio
+656,,,Other
+657,DEAP,,Wearables; Text
+668,synthetic dataset,Nigeria; West Africa,Text; Tabular
+670,ILSVRC ImageNet,,Imaging
+684,,DRC,Text; Tabular
+687,Solomon Benchmark,,Tabular
+688,,,EHR; Imaging; Genomics; Wearables; Text
+689,,developing countries,Text; Other
+693,citizen-collected images,Uganda,Imaging; Text
+696,,,Sensor
+704,DEAP (Database for Emotion Analysis using Physiological Signals),,Audio; Sensor
+705,CICIoMT2024; WUSTL-EHMS-2020; BoT-IoT; Kaggle,,Sensor; Text
+722,new dataset of OCT scans,,Imaging
+723,,,Tabular
+785,,,Imaging
+786,SAM 40,,EHR; Audio
+788,,,Imaging
+813,,Worldwide,Text
+816,,,Tabular
+819,diabetic dataset,,Tabular
+822,Pap smear images,Uganda; Western countries; sub-Saharan Africa,Imaging; Text
+834,Kaggle,Saudi Arabia,EHR; Text; Tabular
+838,METEOR,India; Netherlands; South Africa; England; Portugal; Ireland; Mexico; USA,EHR; Text; Tabular
+839,UCI benchmark datasets; brain MRI dataset,,Imaging; Text
+843,ChestX-ray14,,Imaging; Text
+844,Sleep Health and Lifestyle Dataset,,Tabular
+850,,Nigeria,Tabular; Text
+863,All of Us Research Program; TOPMed; GWAS Catalog,,Genomics
+873,BUSI; UDIAT; BUSC; BUSIS; STUHospital; Moroccan BreastCare,Morocco,Imaging; Text
+874,,,EHR; Text; Tabular
+877,,,Imaging; EHR
+879,publicly available dataset of over 27.000 labeled blood smear images,,Imaging
+882,,,Text; Tabular
+887,RedCap,Morocco,EHR; Text
+899,,,Text; Tabular
+900,SaYoPillow,,Physiological; Text
+901,,,EHR; Text
+904,Monkeypox 2022; Images of Monkeypox,,Imaging
+905,curated dataset of breast ultrasound images,,Imaging
+914,,Spain,Imaging; Other
+919,ENIGMA-MDD,,Imaging
+920,publicly available datasets,Morocco,Imaging
+924,,,Imaging
+925,,,Tabular; EHR
+927,SIPaKMeD,,Imaging; Text
+928,,,Sensor; Tabular
+929,fetal ultrasound image collection,,Imaging
+931,Mpox Skin Lesion Dataset (MSLD),,Imaging
+936,,,Tabular
+940,SCIN,,Imaging; Text
+941,MITDB; PTBDB; NSTDB,,EHR
+942,APTOS2019; Messidor-2,,Imaging
+943,,Egypt,Tabular
+944,publicly available dataset of 100 clinically profiled male fertility cases,,Tabular
+945,OralPath Dataset; seven independent clinical datasets,,Imaging; Text
+961,Cleveland,,Tabular
+979,imaging datasets,,Imaging
+980,open-source paediatric CXR dataset,Nigeria; USA,Imaging
+982,SchistoScope,Côte d’Ivoire,Imaging
+984,,,Text; Tabular
+990,ultrasound data,,Imaging; Text
+996,,,Imaging
+998,Maternal health risk dataset,,Tabular
+999,,,Audio
+1003,ChestX-ray14,,Imaging; Text
+1044,,,Imaging
+1045,Pima Indian dataset,,EHR; Tabular
+1046,,Senegal,Tabular
+1056,,developing countries,Tabular
+1057,,,Imaging
+1060,,developing nations,Text
+1061,miRNA data of Rheumatoid Arthritis patients and healthy controls,,Genomics; Text
+1062,,,Imaging; Text
+1063,,,Tabular
+1064,,,Imaging; Text
+1065,Kaggle.com,,Text; Tabular
+1067,,,Audio; Text
+1070,HAM10000,,Imaging
+1074,,,Imaging
+1083,,,Text; Tabular
+1086,,Algeria,Wearables; Text
+1087,,,Tabular
+1091,Nigerian datasets,Nigeria,Imaging; Text; Tabular
+1097,,Worldwide,EHR; Tabular
+1099,Kvasir-V2,,Imaging; Text
+1106,MRI dataset,,Imaging
+1117,,developing countries,Text
+1121,,Pakistan,Tabular; EHR
+1126,Chest CT images,China,Imaging; Text
+1128,,Zambia,Tabular; EHR
+1130,Pima Indians dataset,Saudi Arabia,Tabular
+1132,,,Audio; Text; Other
+1135,,,Text; Sensor
+1136,Coimbra dataset,,Tabular
+1137,labeled dataset comprising oxygen saturation and heart rate data,,Wearables; Sensor; Tabular
+1139,,,EHR; Tabular
+1140,,,Audio
+1142,KenyaEMR,Kenya,EHR; Text
+1144,Depression Dataset,,Wearables; Tabular
+1148,Ethiopia Demographic and Health Survey 2016,Ethiopia,Tabular
+1149,ChestX-ray14,,Imaging
+1152,Kaggle,,Imaging; Text
+1173,public dataset,,Text
+1175,ImageNet,,Imaging; Text
+1179,HAM10000,,Imaging
+1181,audiograms,Tunisia,Tabular; Imaging
+1184,Ministry of Health in Palestine; Cancer Data Access System (CDAS),Palestine,EHR; Tabular
+1189,,Zimbabwe,Text; Tabular
+1190,ChestX-ray14,Nigeria; USA,Imaging; Text
+1193,,Kenya,Imaging; Text
+1208,OurWorldInData; epidemiology dataset,,Text; Tabular
+1210,Rwanda Demographic and Health Survey,Rwanda,Tabular
+1216,,,Imaging
+1229,H3Africa AWI-Gen,Ghana,EHR; Tabular
+1254,ChestX-ray14,,Imaging
+1255,ChestX-ray14,,Imaging; Text
+1257,,,Tabular
+1261,,,Imaging
+1264,,Tanzania,Audio
+1267,LC25000,,Imaging
+1279,,,Sensor
+1284,,,Text; Tabular; Imaging
+1290,,Ethiopia,Text
+1291,,Uganda,EHR; Text
+1292,VGG16,,Imaging; Text
+1294,DHS,Sub-Saharan African countries,Tabular
+1297,,Pakistan,Tabular
+1305,UCI machine learning repository,,Tabular
+1309,LC25000,,Imaging; Text
+1311,,,EHR; Sensor
+1312,,,Tabular
+1313,BreakHis; BUSI; INbreast; CBIS-DDSM,,Imaging; Text
+1316,Kaggle,,Tabular
+1318,Indian dataset,India,Tabular; Other
+1320,,,Imaging
+1324,UCI Machine Learning Repository,,Audio; Text
+1325,NIH website,,Imaging
+1326,,,Text; Tabular
+1327,,,Imaging
+1337,,,Imaging
+1339,,,EHR
+1340,,,Imaging; EHR
+1341,ChestX-ray14,,Imaging; Text
+1344,,,Text; Tabular
+1345,,,Tabular
+1352,Derma Care,,Imaging
+1361,SABSSM,South Africa,Tabular
+1367,,West Africa,Text; Tabular
+1381,,Egypt,Tabular
+1390,,,Imaging
+1391,,,Audio
+1393,Pima Indian Diabetes Dataset,,Tabular
+1395,Kaggle,India,Tabular
+1397,,,Tabular
+1404,image datasets,,Imaging
+1405,,,Tabular
+1420,,,Imaging; Text
+1422,Kaggle,,Imaging; Text
+1429,,,Text; Tabular
+1430,publicly available PCOS electronic health records dataset,,EHR; Tabular
+1431,brainageR,,Imaging; Text
+1432,,Zambia,Imaging; Text
+1433,,,Text; Tabular
+1434,,worldwide,Imaging; Text
+1435,,Africa,Imaging
+1517,ChestX-ray14,,Imaging; Text
+1529,ImageNet,,Imaging
+1531,,,Imaging; Text; Other
+1532,,,Tabular
+1533,Leukaemia 1; Prostate 1; Prostate 3,,Genomics
+1534,,,Imaging
+1535,,,Other
+1536,,,Wearables; Audio
+1542,,,Imaging
+1546,UCI CKD dataset,,Tabular
+1547,,,Audio; Sensor
+1550,,,Text; Tabular
+1552,EEG,,Audio
+1561,Kaggle,,Tabular
+1569,,,Text; Tabular
+1571,,all countries,Other
+1575,,,Audio
+1580,CHEMBL; ZINC-22,,Text; Tabular
+1581,,Kenya,Imaging; Text
+1582,,Morocco,Audio; Text
+1583,,,Text
+1584,UI-PRMD; KIMORE,,Imaging; Sensor
+1585,ChestX-ray14,,Imaging
+1586,echocardiography images,None,Imaging
+1587,,,Tabular
+1591,Kaggle Healthcare repository,,Tabular
+1597,Reddit; Twitter,,Text
+1598,MIMIC III,,Text
+1603,UMA-Fall7,,Wearables; Sensor; Tabular
+1606,Cleveland; Statlog heart,,Tabular
+1626,,,Imaging
+1638,,Belgium,EHR
+1653,COVID-19 study,,EHR; Tabular
+1656,FreeSurfer; ENIGMA,,Imaging
+1658,,Sub-Saharan Africa; East Africa,Tabular
+1659,,Egypt,Text; Tabular
+1660,ChestX-ray14,China,Imaging; Text
+1661,eHealth lab dataset,,Imaging; Text
+1663,,,Tabular
+1664,PTB-XL,,Other
+1665,PIMA Indian dataset (PIDD),,Tabular
+1666,APTOS 2019; DDR,,Imaging
+1667,,,Text; Tabular
+1670,,,Audio; Text
+1672,synthetic dataset,Sub-Saharan Africa,Text; Tabular
+1673,,West Africa,Tabular
+1674,ECG datasets; test dataset,,Imaging; Audio; Tabular
+1675,,,Wearables; Text; Tabular
+1676,DASS-42,,Text; Tabular
+1679,Kaggle malaria collection; Harvard Dataverse,,Imaging; Text
+1680,,,Text; Tabular
+1683,Pima India Diabetes Data,India,Tabular
+1685,,,Other
+1686,ISIC 2024,,Imaging
+1687,,,Genomics; Text
+1696,,,Genomics; Tabular
+1703,MESSIDOR-2; APTOS 2019; IDRID,,Imaging
+1704,,United Kingdom; South Africa,Text
+1706,UI-PRMD; KIMORE,,Tabular
+1707,ChestX-ray14,,Imaging
+1709,CinC2017; CPSC2018,,Audio
+1710,SS-1000 CASIA OCT,China,Imaging; EHR
+1713,,,Imaging; Text
+1718,,South Africa,EHR
+1720,H&E-stained breast biopsies,,Imaging; Text
+1722,Epic Cosmos,,EHR
+1723,,Nigeria,EHR; Tabular
+1727,,,Text; Tabular
+1729,,,EHR; Text; Tabular
+1730,CODA TB; CAGE-TB,,Audio; Text; Tabular
+1731,,Uganda,EHR; Text
+1738,PPMI,,Imaging
+1742,RespiroDynamics,,Video; Wearables; EHR; Text
+1744,BioVid Heat Pain,,Wearables; EHR; Sensor
+1745,TBX11K,,Imaging; Text
+1747,,,Imaging
+1748,MRI,,Imaging; Other
+1751,three large public datasets,,Imaging
+1755,Kvasir,,Imaging
+1757,,Maghrebian Countries,Tabular
+1759,palpable palm images,sub-Saharan Africa,Imaging; Text
+1761,,,Imaging; Text
+1763,,,Tabular
+1773,Mini-DDSM; IQOTH/NCCD,,Imaging
+1782,Kaggle,,Imaging; Text
+1784,,,Tabular
+1787,,,
+1788,VGG16; ResNet; MobileNet V2,,Imaging
+1790,LIDC-IDRI,,Imaging
+1793,EMGLAB,,Audio
+1795,Merawi; Felegehiwot,Nigeria; India; Pakistan; Democratic Republic of the Congo; Ethiopia,Imaging; Text
+1796,ChestX-ray14,,Imaging
+1797,plantar thermogram database,Algeria,Imaging
+1800,clinical dataset of Egyptian psoriasis patients,Egypt,EHR; Genomics; Text; Tabular
+1806,WDBC,,Tabular
+1807,DRIVE; Messidor,,Imaging; Text
+1808,,,Text; Tabular
+1811,Kaggle,,Imaging
+1818,VGG16,,Imaging
+1819,lung cancer datasets,,Tabular; EHR
+1822,,,Tabular
+1824,,Ethiopia,Tabular; EHR
+1826,HAM10000,,Imaging; Text
+1830,Kaggle repository,,Text
+1831,,Nigeria,EHR; Tabular
+1835,,,Imaging
+1836,PIDD,,Tabular
+1837,ChestX-ray14,,Imaging
+1844,,Rwanda; UK,Imaging; Text
+1853,,,Imaging; Text
+1855,ImageNet; NLM dataset; Belarus dataset; NIAID TB dataset; RSNA-CXR dataset,Belarus,Imaging; Text
+1859,CK +; FER-2013; JAFFE,,Imaging
+1860,,,Sensor; Text
+1862,NIH,,Imaging; Text
+1863,Medical Quality Improvement Consortium database,,Wearables; EHR; Tabular
+1870,ChestX-ray14,,Imaging
+1871,Chest CT dataset,,Imaging
+1874,ChestX-ray14,,Imaging
+1875,ChestX-ray14,,Imaging
+1879,,,Text; Tabular
+1882,Kaggle,,EHR; Text
+1883,,Africa,EHR
+1884,,Egypt,Text; Imaging
+1887,Geimsa-stained microscopic images,,Imaging
+1888,ChestX-ray14,,Imaging; Text
+1889,,Ethiopia,Imaging
+1899,IQ-OTHNCCD,,Imaging
+1900,,,Wearables; Audio; Tabular
+1901,,Ethiopia,EHR; Tabular
+1902,electronic medical record (EMR),Rwanda,EHR; Text; Tabular
+1906,,,Imaging; Text
+1909,,Hong Kong; UK; Nigeria,Text; Tabular
+1914,digital mammography,,Imaging; Text
+1915,,,Text; Tabular
+1917,APTOS; JSIEC; IDRiD; MESSIDOR,,Imaging; Text
+1918,CT; MRI; ultrasonography; cytopathology; histopathology,multiple countries; six continents,Imaging; Text
+1923,,Gabon,Text; Other
+1925,PulseWatch,,Wearables; EHR; Imaging
+1929,,,Imaging; Text; Tabular
+1935,,,Tabular
+1938,Kaggle,,Imaging; Text
+1945,Kaggle COVID-19 Radiography Database,,Imaging; Text
+1946,,Ghana; Africa,EHR; Text; Tabular
+1947,PD dataset,,Audio; Text
+1951,,Global,Imaging; Text
+1955,,,Tabular
+1965,Demographic Health Survey,low- and middle-income countries,Tabular
+1977,ChestX-ray14,,Imaging
+1982,,,Text
+1989,ChestX-ray14,,Imaging; Text
+1990,,,Audio; Text
+1991,,,EHR; Text
+1998,Kaggle,,EHR; Tabular
+2006,Kaggle,,Tabular
+2010,SIRM; Radiopaedia; TCIA; Kaggle,Italy,Imaging; Text
+2021,laryngeal dataset,,Imaging; Text
+2024,African-PREDICT study,South Africa,EHR; Tabular
+2029,DePaul Symptom Questionnaire (DSQ-2); Patient Health Questionnaire-9 (PHQ-9),LMICs,Text; Tabular
+2030,Twitter posts,,Text
+2037,,,Imaging; Text; Tabular
+2040,,,Imaging
+2042,,,EHR; Imaging; Text
+2043,,,Tabular
+2045,,,Text; Tabular
+2047,BUSI,,Imaging
+2049,,,Imaging; Text
+2051,,,Text; Tabular
+2052,Monkeypox Skin Lesion Dataset (MSLD),Africa,Imaging; Text
+2066,PSD; FC,,Wearables; Other
+2073,UCI-HAR,,Sensor; Text
+2081,,,Sensor
+2085,King Abdulaziz Medical City (KAMC),Saudi Arabia,Tabular
+2086,,,Tabular
+2087,,,Text; Tabular
+2100,,,Tabular
+2101,,,Imaging; Text
+2105,ABC Hospital dataset,Bangladesh; India,Tabular; Text
+2110,,,Text; Tabular
+2114,,Egypt,EHR; Text
+2119,MIT-BIH,,Wearables; Sensor; Text
+2120,ChestX-ray14,,Imaging
+2123,NiMet,Nigeria,Tabular; Text
+2130,RSNA Cervical Spine Fracture dataset,,Imaging
+2138,,Uganda,Imaging
+2139,,,Audio; EHR
+2140,neuroimaging dataset,,Imaging
+2141,Human Connectome Project (HCP),,Imaging
+2142,,,Tabular
+2146,PPMI,,Imaging
+2147,,,Imaging
+2150,2018 National Demographic and Health Survey (NDHS),Nigeria,Tabular
+2224,,,Imaging; Text
+2236,,,Audio; Text
+2242,,,Imaging; Text
+2243,,sub-Saharan Africa,Wearables; Text
+2245,MIT-BIH database,,Audio
+2246,,,Tabular
+2249,NSRDB; MIT-BIH; PTB,,EHR; Text
+2250,,,Imaging; Text
+2252,,,Audio
+2254,,South Africa,Tabular
+2268,Chest X-Ray Images (Pneumonia),,Imaging
+2273,,,Wearables; Text
+2275,,Ethiopia,Text
+2276,,,Sensor; Text; Other
+2285,BCCD,,Imaging
+2294,SISS 2015; ISLES 2022,,Imaging
+2295,special dataset,,Imaging
+2299,INbreast; MIAS; MiniDDSM,,Imaging
+2301,OCT-2017; OCT-C8; OCT-2014,,Imaging
+2305,PDBioStamp,,Text; Tabular
+2311,mammography,,Imaging; Text
+2330,,,Imaging; Text
+2337,,Ghana,Tabular
+2338,Kaggle,,EHR; Text
+2343,,,Tabular
+2358,custom-annotated dataset,Tanzania,Imaging
+2360,SHARE,,Tabular
+2365,HAM10000,,Imaging
+2366,WESAD,,Wearables
+2368,PPMI,,Imaging
+2369,,,Tabular
+2370,Cleveland; Framingham,,Tabular
+2375,DU145; Vero,,Imaging; Text
+2376,EEG records,,Audio
+2377,,,Text; Tabular
+2385,,,Imaging
+2388,EUCLIDS; Swiss Pediatric Sepsis study; GENDRES study; PERFORM study,Switzerland; Europe,EHR; Genomics; Text
+2392,"N = 114,173; N = 918",,Imaging; Text
+2394,,,Tabular
+2395,CT scan dataset,,Imaging
+2399,,,Genomics; Text
+2401,private dataset; public dataset,,Tabular; Text
+2402,Illumina Infinium Methylation EPIC 850 K platform,,Genomics; Other
+2403,,Egypt,Text; Tabular
+2404,"publicly available dataset comprising 27,558 microscopic thin blood smear images",,Imaging
+2405,Monkeypox Skin Lesion Dataset (MSLD v2.0),,Imaging
+2406,,,Tabular
+2407,Periapical Index (PAI),,Imaging; Text
+2409,PIMA India; Diabetes Prediction Dataset (DPD); Diabetes Dataset 2019; Raw Merged Dataset (RMD); Cleaned Merged Dataset (CMD),,Tabular
+2416,,Unknown,Imaging
+2418,ChestX-ray14,,Imaging; Text
+2419,,,Text; Tabular
+2422,,,Imaging; EHR
+2423,CXR; CT,,Imaging; Text
+2426,,worldwide,Genomics; Text
+2430,,,Imaging
+2432,,,Tabular
+2433,,United States,Imaging
+2435,VOICED,,Audio; Text
+2443,,,Text; Tabular; Imaging
+2446,,Ghana,Tabular
+2455,,,Tabular
+2458,Fleming dataset,,Tabular
+2469,,,Text
+2472,Wisconsin breast cancer dataset; Wisconsin diagnostic breast cancer dataset,,Tabular
+2473,MIMIC III,,EHR; Tabular
+2474,,,Imaging; Text
+2475,,,Imaging
+2480,retinal images,,Imaging; Text
+2481,BRFSS,,Tabular
+2482,diverse sources,,Imaging; Text
+2490,,,Tabular
+2494,BITalino (r)evolution Plugged Kit,,Wearables; Audio; Text
+2498,,,Imaging; Text
+2502,,Saudi Arabia,Tabular; Text
+2503,,,Imaging; EHR
+2505,,,Wearables; Sensor; Text
+2511,Saarbrucken Voice Database (SVD),Germany,Audio
+2512,Stress Annotated Dataset (SAD),,Text
+2520,,Somalia,Tabular; Text
+2522,,Sub-Saharan Africa,Tabular
+2523,binary class dataset; multiclass dataset,,Imaging; Text
+2527,,,Imaging
+2528,,,EHR; Tabular
+2530,,,Imaging
+2532,ChestX-ray14,,Imaging
+2536,,,Audio; Text
+2538,,,Sensor; Text
+2539,,,Imaging
+2550,,,Genomics; Text
+2551,Ethiopian Demographic and Health Survey 2016,Ethiopia,Text; Imaging
+2553,,,Imaging
+2556,,,Text; Tabular
+2562,,undeveloped nations,Text; Tabular
+2563,,,Tabular
+2564,,,Imaging
+2568,,Senegal,Text
+2577,liver disease dataset,,Tabular; EHR
+2587,Kaggle Machine Learning Dataset,,Tabular
+2589,,,Tabular
+2590,,,Wearables; Audio; Tabular
+2593,,,Tabular
+2597,,Kenya,Text; Tabular
+2598,Kenya Demographic and Health Survey (KDHS),Kenya,Tabular
+2602,DDSM; INbreast,,Imaging; Text
+2603,,,Audio
+2606,Mpox Skin Lesion Dataset v2.0,,Imaging; Text
+2612,,developing countries,Imaging; Text
+2613,four public databases,,Imaging; Text
+2614,2016 Ethiopian Demographic and Health Survey,Ethiopia,Tabular
+2616,,Ethiopia,EHR; Text
+2622,BD-BrainTumor; Brain-tumor-detection; Brain-MRI-images-for-brain-tumor-detection,,Imaging
+2623,thyroid disease dataset,,Tabular
+2624,Mnist-HAM10000; ISIC2019; ISIC2020; Melanoma Skin Cancer,,Imaging
+2626,,South Africa,Text; Tabular
+2629,brain tumor MRI; COVID-19 chest X-ray,,Imaging
+2630,Ghana Demographic and Health Survey,Ghana,Tabular
+2631,NHATS,,Text
+2637,,developing countries,Imaging
+2645,,,Tabular
+2647,,Uganda,Tabular; Text
+2648,dataset with 113 clinical features,Kenya,Text; Tabular
+2651,,Tanzania,EHR; Text
+2653,Rwanda Demographic and Health Survey (RDHS),Rwanda,Tabular
+2656,,,Tabular
+2659,,,Sensor
+2664,Kids’ Hand Movement Dataset (KHMD),,Imaging; Text
+2711,HAM10000; PH2,,Imaging
+2712,,worldwide,Tabular
+2713,MPXV dataset,,Tabular
+2719,,,Tabular
+2724,,,Imaging; Text
+2725,Twitter data,United States; United Kingdom; Australia; Canada,Text
+2731,VISEM Tracking dataset,,Imaging; Other
+2732,,,Imaging
+2733,,,Tabular
+2736,Allied Hospital; Faisalabad Institute of Cardiology,Pakistan,Tabular; EHR
+2739,,,EHR; Text; Tabular
+2742,HNET-DSI; HNET-DSII; HNET-DSIII,,Imaging; EHR
+2743,,,Tabular
+2744,,,Audio
+2745,BCN20000; HAM10000,,Imaging
+2749,,,Imaging
+2758,publicly available repository,Uganda,Imaging
+2760,,,Video; Tabular
+2765,Knee-DNS,,Imaging
+2775,National Survey on Drug Use and Health (NSDUH) 2019,,Tabular
+2776,Kaggle Cardiovascular Disease dataset,,Tabular
+2777,,,EHR; Tabular
+2779,IDRiR; Messidor,,Imaging; Text
+2780,HAM10000,,Imaging
+2782,PTB-XL,,Tabular; Audio
+2788,,Rwanda,Tabular
+2789,,,Tabular
+2798,,,Wearables; Text
+2799,RetinalOCT; RFMID,,Imaging; Text
+2810,ChestX-ray14,,Imaging
+2811,,Morocco,Imaging
+2829,Kaggle; GitHub,,Text
+2834,,developing countries,Tabular; Text
+2835,histologically confirmed lesions; panoramic radiographs; sectional CT images,Nigeria,Imaging; Text
+2837,,Malawi,Audio
+2848,,,Tabular
+2850,BEAT AD; Singapore I Vessel Assessment (SIVA),Hong Kong,Imaging; Text
+2856,,,Imaging
+2858,,,Text; EHR
+2958,,,Text; Tabular
+2962,UCI machine learning repository; Cleveland; Hungary; Switzerland; VA Long Beach,,Tabular
+2973,Origa-light; Origa,,Imaging
+2989,Figshare,,Imaging
+2998,Ethiopian Demographic and Health Surveys,Ethiopia,Tabular
+3011,MHD dataset,Saudi Arabia,EHR; Text
+3017,,,Imaging
+3020,,,Text; Sensor
+3027,Skin Cancer: Malignant vs. Benign; HAM10000,,Imaging; Text
+3029,,,Imaging
+3030,dataset comprising 1224 hematoxylin and eosin (H&E)-stained histological images,,Imaging; Text
+3031,,,Imaging
+3032,MIMIC-III,,EHR; Tabular
+3038,,,Imaging; Text
+3039,,,Imaging
+3043,,,Imaging; Text; Tabular
+3048,,,EHR; Tabular
+3049,,,Genomics
+3052,Somali Health and Demographic Survey,Somalia,Tabular
+3053,,Saudi Arabia,EHR; Tabular
+3054,,,Imaging
+3057,Monash GDM model,,EHR; Tabular
+3058,2019 Sierra Leone demographic and health survey,Sierra Leone,Tabular
+3059,,Ethiopia,Text; Tabular
+3061,Meningococcal Septic Shock (MSS) temporal dataset,,Genomics; Text; Tabular
+3063,GitHub kidney stone CT scans,,Imaging
+3068,BIRADS,,Imaging; Text
+3083,South African dataset,South Africa,Tabular; EHR
+3085,Kaggle,,Imaging; Text
+3090,Fetal Health Classification Dataset (Kaggle); PhysioNet NIFECGDB,,EHR; Audio
+3094,,Ethiopia,Tabular
+3105,ENIGMA-MDD,,Imaging
+3106,,Uganda; Vietnam; Philippines,Genomics; Text
+3109,,,Imaging
+3111,,,Imaging; Text
+3115,Ethiopian Demographic and Health Survey,Ethiopia,Tabular
+3117,UCI,,Audio
+3118,public genomes dataset,,Genomics; Text
+3119,medical image dataset,,Imaging; Text
+3120,,Africa,Text; Tabular
+3122,Rwanda mental health cross-sectional study,Rwanda,EHR; Text
+3123,Kaferelshikh University dataset,,Text
+3127,,,Tabular; EHR
+3129,,,Imaging
+3133,seven medical datasets,,Text; Tabular
+3134,CT whole abdomen and urogram images,,Imaging; Text
+3135,Nigerian chest X-ray dataset,Nigeria,Imaging; Text
+3137,,Worldwide; low-resource regions,Wearables; Text; Tabular
+3146,ChestX-ray14,,Imaging; Text
+3147,autism; epilepsy,,Audio
+3154,,,EHR; Audio; Text
+3156,Uganda's 2016 Demographic and health survey data,Uganda,Tabular
+3186,,,Tabular; Text
+3187,private dataset; publicly available dataset,,Tabular; EHR
+3188,,,Tabular
+3192,,,
+3197,MIT-BIH arrhythmia database,,Text; Tabular
+3204,US lung scans (videos),Nigeria; China,Imaging
+3205,,LMIC,Imaging
+3207,MIT-BIH,,EHR
+3211,,,Tabular; Sensor
+3212,Spanish database,Spain,Audio
+3213,MIT-BIH Arrhythmia Database,,Wearables
+3216,UK Biobank,UK,Imaging
+3217,,Africa,Sensor; Text
+3218,MRI,,Imaging
+3219,ASUSH,Egypt,Imaging
+3225,,,Text; Other
+3231,,,Imaging
+3232,,,EHR; Text; Tabular
+3234,,,Tabular
+3235,,,Audio; Text
+3237,,,Tabular
+3240,Chest CT scan images,,Imaging; Text
+3241,malaria cell dataset,,Imaging
+3242,IHC images,,Imaging
+3244,,,Text
+3247,BraTS Africa,,Imaging
+3248,,Burkina Faso,EHR; Text
+3252,sMRI,,Imaging
+3255,CAP,,EHR
+3259,,,Text; Tabular
+3264,,Sub-Saharan Africa; Asia,EHR; Genomics; Text
+3266,,worldwide; poor countries; moderate countries,Tabular
+3268,,,Text
+3269,,,Text
+3270,ODIR-5,,Imaging
+3275,USDA National Nutrient Database,,Tabular
+3276,,,Text; Sensor
+3280,Moroccan registry of biological therapies,Morocco,EHR; Text
+3282,,Ethiopia,EHR; Tabular
+3285,ChestX-ray14,,Imaging
+3288,MRI,,Imaging
+3291,,,Genomics; Text; Tabular
+3294,,,Tabular
+3300,,,Text; Tabular
+3301,,,EHR; Text; Tabular
+3302,,,Sensor
+3303,,,Tabular
+3305,,,Imaging
+3306,fundus images,,Imaging
+3308,Kaggle,,Tabular; EHR
+3310,OAI,,Imaging; Text
+3315,Ethiopian Demographic and Health Survey,Ethiopia,Tabular
+3316,MRI images,,Imaging
+3317,,,Imaging
+3318,Ethiopian demographic health servey,Ethiopia,Tabular
+3320,Demographic Health Survey (DHS),Sub-Saharan Africa,Tabular
+3321,Ethiopian Public Health Institute (EPHI) datasets,Ethiopia,Tabular; EHR
+3322,Ethiopian Demographic and Health Survey,Ethiopia,Tabular
+3323,Ethiopian Demographic and Health Survey,Ethiopia,Tabular
+3324,,Ethiopia,EHR; Tabular
+3325,Nail Disease Detection dataset,,Imaging
+3326,Federal Polytechnic Ilaro Medical Centre dataset,Nigeria,Tabular
+3332,,,Text; Tabular
+3334,,Bangladesh,Text
+3337,Expert Panel,Kenya,Imaging; Text
+3348,complete case training dataset,South Africa; United Kingdom; Sudan,EHR; Tabular
+3351,Ethiopian Demographic and Health Survey,Ethiopia,Tabular
+3355,MICS,Ghana,Tabular
+3356,2016 Ethiopian demographic health survey (EDHS),Ethiopia,Tabular
+3357,Kvasir,,Imaging
+3361,WATBORG Eye Clinic,,Imaging
+3362,Behavioral Risk Factor Surveillance System,,Tabular
+3364,CILAD-Net,,Tabular
+3372,forever Alone,,Tabular
+3397,,,Text; Tabular
+3398,Kaggle; Kafr El-Sheikh University Hospital,Egypt,Tabular
+3401,ChestX-ray14,,Imaging; Text
+3403,UCI dataset,,Tabular
+3404,,,Tabular
+3406,,,Tabular
+3414,,Japan,Tabular
+3424,,,EHR; Tabular
+3431,ocular disorder retinal fundus image datasets,,Imaging
+3432,ChestX-ray14,,Imaging
+3436,,,Tabular
+3437,,,Text; Tabular
+3438,Demographic Health Surveys,Ethiopia; East Africa,Tabular
+3440,,,Text; Tabular
+3441,labeled brain MRI images,,Imaging
+3442,2019 Ethiopia Mini Demographic and Health Survey (2019 EMDHS),Ethiopia,Tabular
+3443,Ethiopia Demographic and Health Survey 2016,Ethiopia,Tabular
+3444,INbreast,,Imaging
+3451,,Zambia,EHR; Tabular
+3453,COVID-19 Radiography Dataset; Chest X-ray COVID-19 & Pneumonia dataset,,Imaging; Text
+3459,,,Imaging; Text
+3465,,Brazil,Tabular
+3467,,,Text; Tabular
+3468,Kvasir v2; HyperKvasir,,Imaging
+3473,,,Genomics; Text
+3474,MRI dataset,,Imaging
+3490,ChestX-ray14,China,Imaging; Tabular
+3491,new diagnostic imaging dataset,,Imaging
+3497,,tropical regions,Text
+3500,,worldwide,Sensor
+3506,dataset of 884 oral images,,Imaging
+3507,,West Africa,Other
+3523,Breast AI,South Africa,Imaging; Text
+3529,ChestX-ray14; Kaggle,China,Imaging; Text
+3530,Framingham Heart Study; MIMIC-III,United States,EHR; Wearables; Tabular
+3541,,,Imaging
+3559,Kaggle,,Tabular
+3562,,Zambia; United States,Imaging
+3566,,,Wearables; Text
+3653,,,Text; Tabular
+3655,,,Tabular
+3656,,,Text; Other
+3659,Leukemia; DLBCL; Colon; SRDCT,,Genomics; Tabular
+3661,,low- and middle-income countries,Imaging; Text
+3664,,,Sensor; Text
+3669,,,Audio; Text
+3674,,nine nations,Tabular
+3680,Wisconsin Breast Cancer Dataset (WBCD); mammographic image dataset,,Imaging; Tabular
+3681,,,Text
+3685,Reddit,,Text
+3688,Kaggle,,Imaging; Text
+3719,SWEET,,Wearables; Sensor
+3721,Mayo Clinic trial,,EHR; Tabular
+3729,Dataset 1; Dataset 2,,Imaging
+3738,,LI-LMIC,Imaging; Text
+3751,,Zimbabwe,EHR; Tabular
+3759,,,Text
+3760,digital mammography scans,,Imaging
+3764,CEC’22 benchmark suite functions; liver disease datasets,,Tabular
+3770,Nigeria Demographic and Health Survey (NDHS),Nigeria,Tabular
+3772,,,Tabular
+3773,MIT-BIH database,,Audio
+3775,MIMIC-III,,EHR; Text
+3788,Homerton University Hospital dataset; USA dataset; Brazil dataset; Egypt dataset,UK; USA; Brazil; Egypt,Imaging; Text
+3795,ENIGMA-OCD consortium,,Imaging
+3801,i2b2,,Text
+3802,,,Imaging
+3804,fetal ultrasound images,,Imaging
+3807,Ethiopian Demographic and Health Survey,Ethiopia,Tabular
+3809,Alzheimer’s disease Neuroimaging Initiative I; Alzheimer’s disease Neuroimaging Initiative II,,Imaging; Text
+3810,Biomedical Throat Region Image,,Imaging; Text
+3811,CT whole abdomen and urogram images,,Imaging
+3812,,,Text; Tabular
+3813,,,Tabular
+3814,DHS,East Africa,Tabular
+3817,benchmark dataset,,Imaging
+3819,,Global,Imaging; Text
+3823,,,Text; Tabular
+3828,,Kenya,Text; Other
+3831,lung segmentation datasets,,Imaging
+3833,,,Tabular
+3835,CXR dataset,,Imaging
+3836,three large-scale public datasets,,Imaging
+3837,UCI CKD dataset,,Tabular
+3839,MIT-BIH database; INCART database; ST-T European database,,EHR; Text
+3841,,India,Sensor; Text
+3842,NHANES,,Tabular; Audio
+3843,,,Text; Tabular
+3844,Ethiopian Demographic and Health Survey,Ethiopia,Tabular
+3845,Kaggle PCOD ultrasound image dataset,,Imaging
+3853,INbreast,,Imaging; Text
+3854,CHEMBL591669,,Text
+3863,Tunisian Health Examination Survey (THES),Tunisia,Tabular; EHR
+3864,EyePACS 2015; APTOS 2019,,Imaging
+3865,Pioneer Research Hub,,EHR; Tabular
+3867,FAMACHA images,,Imaging
+3878,Cardiotocograms (CTGs),,Imaging; Sensor; Text
+3884,,,Tabular
+3887,,,Audio
+3888,,,Audio; Sensor; Other
+3890,BraTS2021,,Imaging
+3891,dataset provided by Guinea-Bissau Hospital,Guinea-Bissau,EHR; Audio
+3893,Cleveland Heart Disease Dataset,Libya,Tabular
+3894,Breast Ultrasound Images Dataset,,Imaging
+3897,,,Imaging; Text
+3898,,,
+3900,,,Imaging
+3901,University of Tech-nology Malaysia dataset,Malaysia,Imaging; Text
+3903,diabetes dataset,,Tabular
+3906,,,Imaging
+3909,leukemia; lymphoma,,Genomics; Tabular
+3912,COVID-QU-Ex Dataset 2022; ImageNet,Qatar,Imaging; Text
+3916,Beck Depression Inventory (BDI); Hamilton Depression Rating Scale (HDRS); Patient Health Questionnaire (PHQ-9),Jordan,Text
+3917,UCI Machine Learning Repository; WDBC,,Tabular
+3918,MRI images,United States,Imaging
+3920,,,Text; Sensor
+3921,,Burundi,Tabular
+3924,Statlog; Cleveland,,Genomics; Tabular
+3926,,,Tabular
+3928,,,Imaging
+3929,VGG19,developing countries,Imaging
+3930,Kim; Low,,Text
+3931,MRI,,Imaging
+3939,Brain Tumor MRI,,Imaging
+3945,Kaggle AD dataset,,Imaging
+3947,,Egypt,Tabular
+3949,ChestX-ray14,,Imaging; Text
+3951,,,Tabular
+3953,,,Text; Tabular
+3956,MIT-BIH,,Tabular
+3957,,,Imaging
+3962,CHB-MIT Scalp; Bonn EEG,,EHR; Audio
+3965,Pima Indian; Diabetes 2; Mendeley diabetes,,Tabular
+3970,Ethiopian Demographic Health Survey (EDHS),Ethiopia,Tabular
+3972,EchoNet-Dynamic,,Imaging
+3973,GSE48390,,Genomics; Text
+3974,,,Text
+3975,,,Sensor; Text
+3976,,,Text; Tabular
+3984,Mendely,,Imaging; Text
+3986,UCLA Consortium for Neuropsychiatric Phenomics,,Imaging
+3987,BUSI,,Imaging
+3988,,,EHR; Text; Tabular
+3995,Neotree,Zimbabwe,EHR; Text
+3997,,,Imaging
+4000,Drug Bank,,Text; Other
+4004,,,Tabular; EHR
+4014,Kaggle,,Imaging
+4015,,Kenya; Africa,Tabular
+4020,,Saudi Arabia,EHR; Tabular
+4021,,Algeria,Tabular
+4024,Demographic Health Surveys (DHS),Egypt,Tabular
+4026,HemoTypeSC TM; Sickle SCAN ®,Uganda,Imaging; Text
+4027,2019 Lesotho national tuberculosis prevalence survey,Lesotho,Imaging; Text
+4031,RHDECG; PTB-XL,Ethiopia,ECG; Audio
+4033,TB profiler,Uganda; South Africa,Genomics; Text; Tabular
+4036,MRI; PET,,Imaging
+4038,MaCRA,Benin; Côte d’Ivoire; Nigeria; Uganda,Imaging; Text
+4042,Young Lives cohort study,Ethiopia,EHR; Tabular
+4045,,,Text; Tabular
+4046,,,Audio
+4050,UCI Heart Disease dataset; Wisconsin Diagnostic Breast Cancer (WDBC) dataset,,Tabular
+4064,DHS 2020,Rwanda,Tabular
+4066,,AE,Text
+4068,BUSI,,Imaging
+4071,,,Text; Tabular
+4072,,China,Tabular; Text
+4073,BRATS 2020,,Imaging
+4075,,United States,Other
+4077,,Indonesia,Tabular; EHR
+4081,TUM GAID,,Other
+4082,Mexican epidemiological dataset,Mexico,Tabular; EHR
+4085,UCI heart disease repository,,Tabular
+4088,,,Text; Tabular
+4098,,,Text
+4115,DEKOIS 2.0,,Text
+4117,HAM10000,,Imaging; Other
+4120,ChestX-ray14,,Imaging; Text
+4134,X-ray images; BMD; DXA scans; fracture risk assessments; clinical data,,Imaging; EHR; Tabular
+4138,,,Wearables; Text
+4141,,Nigeria,EHR; Text
+4143,,Nigeria,EHR; Tabular
+4146,,Uganda,EHR; Text
+4149,ISIC Archive,,Imaging; Text
+4150,conjunctiva of the eyes; fingernails; palpable palm images,,Imaging
+4165,,,Imaging
+4176,BreakHis; IDC,,Imaging; Text
+4182,SnakeCLEF 2021,Morocco,Imaging; Text
+4183,,,Audio
+4190,synthetic dataset,,Text; Tabular
+4191,Histopathologic Oral Cancer Detection dataset,,Imaging
+4192,Penn Action; NW-UCLA,,Audio; Imaging
+4194,ISIC skin lesion database,,Imaging; Other
+4196,Cardiac Atlas Project,,Imaging; Tabular
+4197,Kaggle,,Imaging
+4203,CXR,,Imaging; Text
+4206,,Rwanda,Tabular
+4209,bulk RNA sequencing datasets; single-cell RNA sequencing datasets,United States,EHR; Genomics; Text
+4210,,United States; Africa; Asia,Imaging; Text
+4218,BreakHis v1 400×,,Imaging; Text
+4219,electromyography (EMG) signals,,Sensor; Text
+4221,benchmark database,,Wearables; Sensor; Tabular
+4223,,,Wearables; Imaging; Audio
+4229,publicly available image datasets,,Imaging
+4231,WHO STEPS Uganda Survey,Uganda,Tabular; EHR
+4233,,,Tabular
+4234,,,Tabular
+4249,transcriptome datasets,,Genomics; Text
+4253,,,Tabular
+4255,,,Tabular
+4256,,,Tabular
+4262,Yusuf Dantsoho Memorial Hospital dataset,Nigeria,Tabular; EHR
+4275,Human Connectome Project (HCP),,Imaging
+4276,,,Imaging
+4281,,Ethiopia,EHR; Tabular
+4282,COVID-19 CT imaging datasets,,Imaging
+4285,,,Video; Text
+4359,,,Imaging; Text
+4362,National Liver Institute,Egypt,Tabular
+4363,,,Imaging
+4365,,,Sensor; Text
+4372,,,Text
+4373,COVID-x-CT,,Imaging; Text
+4374,Asia–Pacific Tele-Ophthalmology Society,Asia; Pacific,Imaging
+4375,Siemens 3Tesla MRI,Tunisia,Imaging
+4376,BraTS 2020,,Imaging
+4377,MRI,,Wearables; Imaging; Sensor; Text
+4385,,,Imaging
+4387,Drugbank,,Text; Tabular
+4391,Pima Indian Diabetes Dataset (PIDD); Arabidopsis thaliana DNA database,,Genomics; Tabular
+4394,,,Sensor; Audio; Text
+4395,Sylhet Diabetes Hospital,Bangladesh,Tabular
+4396,Multiclass Emotion Model Dataset; Karolinska Directed Emotional Faces (KDEF),,Text; Imaging
+4397,Reddit dataset; Twitter dataset,,Text
+4403,heart disease; diabetes,,Wearables; Sensor; Tabular
+4416,SisFall; UniMib-SHAR; MobiAct,,Wearables; Sensor
+4420,,,Wearables; EHR
+4421,,,Text; Tabular
+4422,DEAP; DREAMER,,Audio; Wearables
+4424,whole dataset; XGBoost dataset,,Tabular
+4425,ODIR; RFMiD,,Imaging
+4427,,,Text
+4428,,Global,Tabular
+4435,CDC diabetes dataset,,Tabular
+4439,,Nigeria,EHR; Text
+4441,PTB-XL,,ECG; Text
+4443,bilingual dataset of pregnancy-related questions and answers,,Text
+4446,,,Text; Tabular
+4452,,Africa,Imaging
+4454,,,Imaging; Text
+4455,ChestX-ray14,,Imaging; Text
+4457,,,Audio; Text
+4458,ChestX-ray14,,Imaging
+4463,LUNA16,,Imaging
+4465,,Tanzania,Text
+4466,,,Text
+4470,UCI machine repository,,Tabular
+4474,,Tanzania,Tabular
+4486,ENIGMA OCD Working Group,,Imaging
+4490,ChestX-ray14,,Imaging; Text
+4491,,,Genomics; Imaging; Text
+4492,TCGA,,Genomics; Tabular
+4494,,,Text
+4495,,,Genomics; Text
+4498,CT image dataset,,Imaging; Text
+4499,,,Tabular
+4502,eleven national datasets in East Africa,East Africa,Tabular
+4503,MHEALTH; Actitracker,,Wearables
+4506,,worldwide; developed nations; developing nations,
+4507,,,Sensor; Text
+4508,,every country,Wearables; Text
+4509,,,Text; Tabular
+4511,RF100-VL,,Imaging
+4514,,,Imaging; Text
+4516,,,Genomics; Tabular
+4517,CVC ClinicDB,,Imaging; Text
+4522,,,Imaging; Text; Other
+4523,dataset gathered from several hospitals,,Imaging; Text
+4530,,Jordan,Text; Tabular
+4532,,low- and middle-income countries,Other
+4538,National Health Information Center's dataset,Saudi Arabia,Tabular; EHR
+4539,YouTube FP (YFP),,Imaging; Text
+4540,,,Tabular
+4542,,Morocco,Text; Tabular
+4585,DIARETDB0; DIARETDB1; Messidor; HEI-MED; Ocular; Retina,,Imaging
+4586,,,Sensor
+4587,MIT-BIH,,Audio
+4854,Histology Images,,Imaging
+4856,,,EHR
+4865,,Tanzania; Ethiopia,Tabular
+4874,Pima Indian,,Tabular
+4875,,,Tabular
+4886,Demographic and Health Survey,Sub-Saharan Africa,Tabular
+4887,,,Imaging
+4893,,South Africa,Tabular; EHR
+4895,,Guinea,Tabular; EHR
+4900,,,Imaging
+4902,MIMIC-III,,EHR; Other
+4905,MIT-BIH; European Society of Cardiology ST-T (EDB); St. Petersburg Institute of Cardiological Techniques 12-lead Arrhythmia (INCART),,EHR
+4911,histopathological image dataset,,Imaging
+4919,National Survey for Children's Health (NSCH); ADHD|Mental Health,,Tabular
+4921,,,Text
+4928,,,Text; Tabular
+4929,,,Wearables; Audio; Text
+4931,MIT-BIH; INCART,,EHR
+4941,,,Text; Tabular
+4945,,,Imaging
+4958,GEO,,Genomics; Text
+4959,ISIC-2019,,Imaging; Text
+4971,ChestX-ray14,,Imaging; Text
+96,,,Audio
+170,,,Imaging; Wearables; Text
+216,BC datasets,,Tabular
+225,,,Text
+251,CEC2020; BSDS500,,Imaging; Text
+345,,,Genomics
+682,,,Text
+1005,,,Text
+1188,,,
+1780,ChestX-ray14,,Imaging; Text
+1825,,,Text
+1968,,,EHR
+2585,Asella Comprehensive Hospital dataset,Ethiopia,Text; Tabular
+4259,CTU-CHB; UCI,,Sensor
+4453,,,Imaging; Text
+4925,periapical X-rays,,Imaging; Text
