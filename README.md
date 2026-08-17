@@ -1,4 +1,4 @@
-# Machine Learning for Health in Africa — Reproduction Package
+# Scientometric Analysis of African-Affiliated Research about AI in Healthcare
 
 Data and analysis code for the scientometric study of machine-learning-for-health
 research with at least one African-affiliated author, published 2023–2025.
